@@ -1,3 +1,4 @@
++   [Django 高级教程](README.md)
 +   [一、了解 Django](01.md)
 +   [二、Django 就是 Python](02.md)
 +   [三、模型](03.md)
@@ -9,4 +10,3 @@
 +   [九、常用工具](09.md)
 +   [十、协调应用](10.md)
 +   [十一、改进应用](11.md)
-+   [Django 高级教程](README.md)
